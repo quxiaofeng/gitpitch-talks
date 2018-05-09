@@ -18,9 +18,9 @@
 
 ## 简介 Intro
 
-- 十分钟零成本从零开始上线一个有品味的博客。（需要 Markdown 文档编辑基础）|
-- 如何为这个博客添砖加瓦，增加功能与内容。（根据能力和需求选择使用）|
-- 利用 Hexo 配合 Travis-CI，创建一个能够充分自定义各种功能的，没有环境依赖，自动编译的博客系统。（需要 GitHub 使用经验，h5、js、css 等前端基础）|
+- 十分钟零成本从零开始上线一个有品味的博客。（需要 Markdown 文档编辑基础）
+- 如何为这个博客添砖加瓦，增加功能与内容。（根据能力和需求选择使用）
+- 利用 Hexo 配合 Travis-CI，创建一个能够充分自定义各种功能的，没有环境依赖，自动编译的博客系统。（需要 GitHub 使用经验，h5、js、css 等前端基础）
 
 
 ---
@@ -28,11 +28,11 @@
 
 ## 演示 Demo
 
-- 注册邮箱 |
-- 注册 GitHub 帐号并验证邮箱 |
-- 在 jekyllthemes.org 上挑选主题（品味！） |
-- 复制过来并修改代码库的名字 |
-- 修改配置文件后访问测试 lumitalk.github.io |
+- 注册邮箱
+- 注册 GitHub 帐号并验证邮箱
+- 在 jekyllthemes.org 上挑选主题（品味！）
+- 复制过来并修改代码库的名字
+- 修改配置文件后访问测试 lumitalk.github.io
 
 
 ---
@@ -52,11 +52,11 @@ Create a web site with GitHub Pages (User) from scratch
 
 Why still blogging?
 
-- 博客或者说个人网站的主要作用 |
-   - 省时省力的自我介绍 |
-   - 知识与经验的积累整理与补充（外脑）|
-   - 分享、讨论、观点碰撞、避免回声 |
-- 知识经济主要平台已经出现垄断：知乎（专栏）、微信公众号、Medium |
+- 博客或者说个人网站的主要作用
+   - 省时省力的自我介绍
+   - 知识与经验的积累整理与补充（外脑）
+   - 分享、讨论、观点碰撞、避免思维回声
+- 知识经济主要平台已经出现垄断：知乎（专栏）、微信公众号、Medium
 
 
 ---
@@ -66,11 +66,11 @@ Why still blogging?
 
 Why static site?
 
-- 静态网站的优点：易使用、安全、低成本 |
-- 静态网站的局限：没有动态，没有数据库，没有后端 |
-- 当前方案的组成：GitHub Pages + Jekyll + Markdown + JavaScript |
-- GitHub 是程序员（广义）的技术平台和生态链 |
-- 总之：免费 + 有用 + 能学到东西 |
+- 静态网站的优点：易使用、安全、低成本
+- 静态网站的局限：没有动态，没有数据库，没有后端
+- 当前方案的组成：GitHub Pages + Jekyll + Markdown + JavaScript
+- GitHub 是程序员（广义）的技术平台和生态链
+- 总之：免费 + 有用 + 能学到东西
 
 
 ---
@@ -93,13 +93,13 @@ Why static site?
 
 Why this way?
 
-- GitHub Pages 的免费空间 |
-   - User: $USER-NAME.github.io repo, master branch; Project: any repo, gh-pages branch（默认选项，可以修改） |
-- 静态网站生成器 staticgen.com |
-   - Jekyll 源代码 + GitHub Pages 自动编译 |
-   - 静态网站生成器生成 HTML + GitHub Pages 托管 |
-- 聚焦内容 Markdown |
-- 表现力 HTML 5 + CSS 3 + JavaScript |
+- GitHub Pages 的免费空间
+   - User: $USER-NAME.github.io repo, master branch; Project: any repo, gh-pages branch（默认选项，可以修改）
+- 静态网站生成器 staticgen.com
+   - Jekyll 源代码 + GitHub Pages 自动编译
+   - 静态网站生成器生成 HTML + GitHub Pages 托管
+- 聚焦内容 Markdown
+- 表现力 HTML 5 + CSS 3 + JavaScript
 
 
 ---
@@ -109,13 +109,13 @@ Why this way?
 
 Follow-ups
 
-- 简介代码目录结构 |
-   - github.com/quxiaofeng/doorknob |
-   - github.com/quxiaofeng/optimization |
-- 配置 _config.yml |
-- 本地 Git 环境（见后页） |
-- 顺手配一个域名吧 freenom.com（流程见再后页） |
-- freenom.com 免费顶级域名：不可靠，但适合临时使用 |
+- 简介代码目录结构
+   - github.com/quxiaofeng/doorknob
+   - github.com/quxiaofeng/optimization
+- 配置 _config.yml
+- 本地 Git 环境（见后页）
+- 顺手配一个域名吧 freenom.com（流程见再后页）
+- freenom.com 免费顶级域名：不可靠，但适合临时使用
 
 
 
@@ -134,14 +134,14 @@ Set up local GitHub env
 
 ## 配置域名 Domain name
 
-- 检索没被占用的域名 freenom.com（科学上网） |
-- 注册域名 |
-- 填写域名信息：转发或者 DNS |
-   - A, 600, 192.30.252.154 |
-   - A, 600, 192.30.252.153 |
-   - WWW, CNAME, 600, 用户名.github.io |
-- GitHub repo 上：CNAME 文件 www.lumitalk.ml |
-- 十分钟后测试 lumitalk.ml|
+- 检索没被占用的域名 freenom.com（科学上网）
+- 注册域名
+- 填写域名信息：转发或者 DNS
+   - A, 600, 192.30.252.154
+   - A, 600, 192.30.252.153
+   - WWW, CNAME, 600, 用户名.github.io
+- GitHub repo 上：CNAME 文件 www.lumitalk.ml
+- 十分钟后测试 lumitalk.ml
 
 
 ---
@@ -260,10 +260,10 @@ Travis-CI automatic generation and deployment
 
 Agile themes
 
-- 挑选博客主题 https://hexo.io/themes/ |
-- 分支 Fork |
-- 修改配置：主站的 _config.yml 和 主题中的 _config.yml |
-- 查看效果，并调试 |
+- 挑选博客主题 https://hexo.io/themes/
+- 分支 Fork
+- 修改配置：主站的 _config.yml 和 主题中的 _config.yml
+- 查看效果，并调试
 
 
 ---
