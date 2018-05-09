@@ -98,7 +98,7 @@ Why this way?
 - 静态网站生成器 staticgen.com |
    - Jekyll 源代码 + GitHub Pages 自动编译 |
    - 静态网站生成器生成 HTML + GitHub Pages 托管 |
-- 聚焦内容 Markdown
+- 聚焦内容 Markdown |
 - 表现力 HTML 5 + CSS 3 + JavaScript |
 
 
