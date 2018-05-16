@@ -32,7 +32,7 @@
 - 注册 GitHub 帐号并验证邮箱
 - 在 jekyllthemes.org 上挑选主题（品味！）
 - 复制过来并修改代码库的名字
-- 修改配置文件后访问测试 lumitalk.github.io
+- 修改配置文件后访问测试 [lumitalk.github.io](http://lumitalk.github.io)
 
 
 ---
@@ -56,7 +56,7 @@ Why still blogging?
    - 省时省力的自我介绍
    - 知识与经验的积累整理与补充（外脑）
    - 分享、讨论、观点碰撞、避免思维回声
-- 知识经济主要平台已经出现垄断：知乎（专栏）、微信公众号、Medium
+- 知识经济主要平台已经出现垄断：知乎（专栏）、简书、微信公众号、Medium 等。
 
 
 ---
@@ -95,7 +95,7 @@ Why this way?
 
 - GitHub Pages 的免费空间
    - User: $USER-NAME.github.io repo, master branch; Project: any repo, gh-pages branch（默认选项，可以修改）
-- 静态网站生成器 staticgen.com
+- 静态网站生成器 [staticgen.com](http://staticgen.com)
    - Jekyll 源代码 + GitHub Pages 自动编译
    - 静态网站生成器生成 HTML + GitHub Pages 托管
 - 聚焦内容 Markdown
@@ -110,11 +110,11 @@ Why this way?
 Follow-ups
 
 - 简介代码目录结构
-   - github.com/quxiaofeng/doorknob
-   - github.com/quxiaofeng/optimization
+   - 最小站点 [github.com/quxiaofeng/doorknob](http://github.com/quxiaofeng/doorknob)
+   - 较为复杂的站点 [github.com/quxiaofeng/optimization](http://github.com/quxiaofeng/optimization)
 - 配置 _config.yml
 - 本地 Git 环境（见后页）
-- 顺手配一个域名吧 freenom.com（流程见再后页）
+- 顺手配一个域名吧 [freenom.com](http://freenom.com)（流程见再后页）
 - freenom.com 免费顶级域名：不可靠，但适合临时使用
 
 
@@ -134,20 +134,20 @@ Set up local GitHub env
 
 ## 配置域名 Domain name
 
-- 检索没被占用的域名 freenom.com（科学上网）
+- 检索没被占用的域名 [freenom.com](http://freenom.com)（科学上网）
 - 注册域名
 - 填写域名信息：转发或者 DNS
    - A, 600, 192.30.252.154
    - A, 600, 192.30.252.153
    - WWW, CNAME, 600, 用户名.github.io
 - GitHub repo 上：CNAME 文件 www.lumitalk.ml
-- 十分钟后测试 lumitalk.ml
+- 十分钟后测试 [lumitalk.ml](lumitalk.ml)
 
 
 ---
 
 
-## 再怎么弄？添加内容
+## 再怎么弄？根据需求写文章
 
 Then what? Articles!
 
@@ -180,13 +180,14 @@ Else? Styles
 
 The elements of a blog
 
-- 博客是用来阅读的
+- 博客、网页是让人来读的
    - 文字要适合阅读，要舒服
    - 图表要能看清，最好能美观一点
-   - 配色请简洁大方
-- 网站不要太满、不要太慢
-- 请确保响应式设计：在电脑（Win/Mac/Linux）和手机上都好用
+   - 配色请简洁大方，不要太晃眼
+- 网页内容不要太满、不要太慢、不要漫天小招贴
+- 请一定确保响应式设计：在电脑（Win/Mac/Linux）和手机等各种屏幕上都好用
 - 请保持更新，保持有趣
+
 
 ---
 
@@ -210,9 +211,10 @@ Options
 Hacks
 
 - 打印模式 [Resume Cards Example](http://ellekasai.github.io/resumecards/) Responsive [@media print](https://github.com/ellekasai/resumecards/blob/gh-pages/stylesheets/resumecards.scss#L495)
-- 修改模板: layout include
-- 加入额外的数据 \_data 并进行处理
-- 加入更多的 js 功能
+- 修改模板: 页面整体模板在 layout；页面中的各种小插件如页头、页脚等在 include。
+- 算法伪代码 [pseudocode.js](http://www.tatetian.io/pseudocode.js/) (公式基于 KaTeX，如果站点本身就支持 KaTeX 会非常方便)
+- 加入额外的数据 \_data 并进行处理。
+- 加入更多的 js 功能。
 
 
 ---
@@ -260,7 +262,7 @@ Travis-CI automatic generation and deployment
 
 Agile themes
 
-- 挑选博客主题 https://hexo.io/themes/
+- 挑选博客主题 [hexo.io/themes](https://hexo.io/themes/)
 - 分支 Fork
 - 修改配置：主站的 _config.yml 和 主题中的 _config.yml
 - 查看效果，并调试
