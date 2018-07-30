@@ -1,12 +1,10 @@
 ## 《OKR》读书笔记
 
-#### Notes on 《OKR》
+## Notes on 《OKR》
 
 
 ---
 
-
-## 演示文稿
 
 ## Slides
 
@@ -16,7 +14,7 @@
 ---
 
 
-## 简介 Intro
+## Intro
 
 - 
 
@@ -24,7 +22,7 @@
 ---
 
 
-## OKR
+## The book
 
 - OKR：源于英特尔和谷歌的目标管理利器
 - Objectives and Key Results: Driving Focus, Alignment, and Engagement with OKRs
