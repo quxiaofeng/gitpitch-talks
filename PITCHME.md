@@ -6,11 +6,11 @@
 ---
 
 
-## 演示文稿：OKRTalk.tk
+## 演示文稿
 
-## Slides: OKRTalk.tk
+## Slides
 
-![](assets/image/lunchtalk-qrcode.png)
+![](assets/image/gakki-okr-talk.gif)
 
 
 ---
@@ -57,7 +57,7 @@
 
 Create a web site with GitHub Pages (User) from scratch
 
-![](assets/image/user-gh-pages.png)
+![](assets/image/gakki-okr-talk.gif)
 
 
 ---
