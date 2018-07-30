@@ -1,14 +1,14 @@
-## 如何利用 GitHub 建立有品味的博客
+## 《OKR》读书笔记
 
-#### Static Site with GitHub Pages in Style
+#### Notes on 《OKR》
 
 
 ---
 
 
-## 演示文稿：LunchTalk.tk
+## 演示文稿：OKRTalk.tk
 
-## Slides: LunchTalk.tk
+## Slides: OKRTalk.tk
 
 ![](assets/image/lunchtalk-qrcode.png)
 
@@ -18,21 +18,36 @@
 
 ## 简介 Intro
 
-- 十分钟零成本从零开始上线一个有品味的博客。（需要 Markdown 文档编辑基础）
-- 如何为这个博客添砖加瓦，增加功能与内容。（根据能力和需求选择使用）
-- 利用 Hexo 配合 Travis-CI，创建一个能够充分自定义各种功能的，没有环境依赖，自动编译的博客系统。（需要 GitHub 使用经验，h5、js、css 等前端基础）
+- 
 
 
 ---
 
 
-## 演示 Demo
+## OKR
 
-- 注册邮箱
-- 注册 GitHub 帐号并验证邮箱
-- 在 jekyllthemes.org 上挑选主题（品味！）
-- 复制过来并修改代码库的名字
-- 修改配置文件后访问测试 [lumitalk.github.io](http://lumitalk.github.io)
+- OKR：源于英特尔和谷歌的目标管理利器
+- Objectives and Key Results: Driving Focus, Alignment, and Engagement with OKRs
+- 作者：（美） 保罗R.尼文（Paul R. Niven） / 本•拉莫尔特（Ben Lamorte） 
+- 译者: 况阳
+
+
+---
+
+
+## 作译者情况
+
+- 保罗 R.尼文
+
+- OKRsTraining.com 的合作伙伴。他著有关于战略及执行方面的5本专著，已被翻译成15种语言。
+
+- 本•拉莫尔特
+
+- OKRsTraining.com的合作伙伴。他是国际知名的OKR教练，曾辅导全球多家企业实施OKR。
+
+- 况阳
+
+- 2005年加入某世界500强企业，先后从事过7年研发和项目管理工作，2012年开始专注人力资源工作，分别从事过组织诊断、绩效管理、员工关系和学习发展模块等HR工作，对OKR有较深入研究和积累。
 
 
 ---
