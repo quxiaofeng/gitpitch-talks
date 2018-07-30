@@ -28,9 +28,8 @@
 
 - OKR：源于英特尔和谷歌的目标管理利器
 - Objectives and Key Results: Driving Focus, Alignment, and Engagement with OKRs
-- 作者：
-  - （美） 保罗R.尼文（Paul R. Niven）
-  - 本•拉莫尔特（Ben Lamorte） 
+- 作者：（美） 保罗R.尼文（Paul R. Niven）
+- 本•拉莫尔特（Ben Lamorte） 
 - 译者: 况阳
 
 
@@ -55,9 +54,15 @@
 ---
 
 
-## 主要内容
+## 主要内容（七章）
 
-章节结构
+- OKR 简介
+- 准备启程
+- 创建有效的 OKR
+- 联结 OKR 以驱动战略达成
+- 用 OKR 进行日常管理
+- 让 OKR 可持续
+- OKR 应用案例研究
 
 
 ---
