@@ -25,7 +25,7 @@
 
 - OKR：源于英特尔和谷歌的目标管理利器
 - Objectives and Key Results: Driving Focus, Alignment, and Engagement with OKRs
-![](assets/image/gakki-okr-talk.gif)
+![](assets/image/OKR.jpg)
 
 ---
 
@@ -59,14 +59,14 @@
 
 ---
 
-## OKR 简介
+## OKR 的历史
 
 - OKR 的历史、定义、目的和收益
 - Objects and Key Results
 - 英特尔和谷歌（20世纪90年代）
 - 霍桑效应 The Hawthrone Effect 芝加哥工厂照明条件改善（20年代）
 - 彼得•德鲁克 1954 年出版管理的实践提出目标管理 Management by Objectives
-- 英特尔安迪格鲁夫：我想去哪？如何调整节奏确保正往那去？
+- 英特尔安迪格鲁夫的两个问题：我想去哪？如何调整节奏确保正往那去？
 
 ---
 
@@ -76,15 +76,49 @@
 
 ---
 
-## 准备启程
+## OKR 的三个例子
 
 
 
 ---
 
-## 创建有效的 OKR
+## OKR 的预期收益
+
+![](assets/image/benefit.png)
+
+---
+
+## OKR 的部署实施
+
+![](assets/image/five-deployment.png)
 
 
+
+---
+
+## OKR 的背景
+
+
+
+![](assets/image/background.png)
+
+---
+
+## 如何创建目标"O"
+
+![](assets/image/target-example.png)
+
+---
+
+## 怎样设计好的"KR"
+
+![](assets/image/key-example.png)
+
+---
+
+## 五种 KR
+
+![](assets\image\five-kr.png)
 
 ---
 
