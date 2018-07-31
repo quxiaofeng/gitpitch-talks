@@ -114,19 +114,19 @@
 
 ## 五种 KR
 
-![](assets\image\five-kr.png)
+![](assets/image/five-kr.png)
 
 ---
 
 ## 如何给 OKR 打分
 
-![](assets\image\score.png)
+![](assets/image/score.png)
 
 ---
 
 ## 创建 OKR 的 CRAFT 流程
 
-![](assets\image\craft.png)
+![](assets/image/craft.png)
 
 
 
@@ -134,7 +134,7 @@
 
 ## OKR 的联结
 
-![](assets\image\alignment.png)
+![](assets/image/alignment.png)
 
 
 
@@ -142,13 +142,13 @@
 
 ## KR 依赖与多团队共用 OKR
 
-![](assets\image\share.png)
+![](assets/image/share.png)
 
 ---
 
 ## OKR 实施时间表
 
-![](assets\image\schedule.png)
+![](assets/image/schedule.png)
 
 ---
 
