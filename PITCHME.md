@@ -122,27 +122,37 @@
 
 ---
 
-## 联结 OKR 以驱动战略达成
+## 如何给 OKR 打分
+
+![](assets\image\score.png)
+
+---
+
+## 创建 OKR 的 CRAFT 流程
+
+![](assets\image\craft.png)
 
 
 
 ---
 
-## 用 OKR 进行日常管理
+## OKR 的联结
+
+![](assets\image\alignment.png)
 
 
 
 ---
 
-## 让 OKR 可持续
+## KR 依赖与多团队共用 OKR
 
-
+![](assets\image\share.png)
 
 ---
 
-## OKR 应用案例研究
+## OKR 实施时间表
 
-
+![](assets\image\schedule.png)
 
 ---
 
@@ -208,11 +218,9 @@
 ---
 
 
-## 分享要点
+## 分享要点 Takeaways
 
-Takeaways
-
-- 有需要的时候，fork 一个 GitHub Pages 博客，十分钟就可以上线一个静态网站。流程可以查本文档，或者问我要最新版。
+- OKR 的关键：聚焦、透明、对齐
 
 ---
 
